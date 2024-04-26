@@ -57,20 +57,9 @@ npm run dev
 
 ```
 
-4. Access the application in your web browser at http://localhost:5173  
-
--------------------------------------------------
-
-## Build and Deploy
-
-To build the project for deployment, use the following command:
-
-```bash
-npm run build
-```
+4. Access the application in your web browser at http://localhost:5173
 
 
--------------------------------------------------
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
